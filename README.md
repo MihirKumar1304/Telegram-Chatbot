@@ -11,3 +11,5 @@ This project is a Telegram chatbot that interacts with users and fetches real-ti
 
 ## Telegram Chatbot
 - <a href="https://github.com/MihirKumar1304/Telegram-Chatbot/blob/main/Telegram%20Chatbot.mp4">Telegram Chatbot</a>
+
+- <a href="https://t.me/Gemini1304_bot">Telegram Chatbot</a>
