@@ -10,4 +10,4 @@ This project is a Telegram chatbot that interacts with users and fetches real-ti
 - Logs user interactions for analytics.
 
 ## Telegram Chatbot
-- <a href="t.me/Gemini1304_bot">Bot</a>
+- <a href="https://github.com/MihirKumar1304/Telegram-Chatbot/blob/main/Telegram%20Chatbot.mp4">Telegram Chatbot</a>
